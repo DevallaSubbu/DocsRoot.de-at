@@ -1,0 +1,40 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "Search/toc.yml", 
+          "breadcrumb/toc.yml", 
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "DocsCoreContent/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "DocsCoreContent/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {
+      "breadcrumb_path": "/Search/toc.json"
+    },
+    "fileMetadata": {},
+    "template": [
+      null
+    ],
+    "dest": "DocsCoreContent"
+  }
+}
