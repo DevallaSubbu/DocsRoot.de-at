@@ -1,0 +1,8 @@
+- name: Dokumentation
+ 
+  href: / 
+  homepage: / 
+  items: 
+  - name: Suchen
+    href: /Search/
+    homepage: /Search/index
