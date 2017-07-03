@@ -1,20 +1,21 @@
 ---
 asset_id: d21b98e5-cdf2-4cec-bd88-395e2e51b641
-description: "Erkunden Sie die neuesten Ressourcen für Entwickler und IT-Experten, einschließlich technischer Dokumentation, API-Referenzen und Supportressourcen."
+title: Technische Dokumentation, API und Codebeispiele | Microsoft-Dokumentation
+description: "Holen Sie sich die neueste Dokumentation von Microsoft für Entwickler und IT-Experten: API-Referenz, Codebeispiele, technische Dokumentation und mehr."
 layout: HubPage
 hide_bc: True
 ms.topic: home-page
-ms.openlocfilehash: 134ff5d38b61c9e657ac73913fb49b76eb5ba860
-ms.sourcegitcommit: 2c84a8fc7076bfb42a0872e15f40444c3e3bd2be
+ms.openlocfilehash: a9e9d468f93e936e062140a2f2b1b3ee29652fee
+ms.sourcegitcommit: 64e54cbaded955a94fdd0cd571ccf5a08f055d65
 ms.translationtype: HT
 ms.contentlocale: de-AT
-ms.lasthandoff: 06/16/2017
+ms.lasthandoff: 06/26/2017
 ---
 <div id="main" class="siteHome">
     <div class="container">
-        <h1><span>docs</span>.microsoft.com</h1>
+        <h1>Microsoft-Dokumentation</h1>
         <div class="centered intro">
-docs.microsoft.com ist unsere neue vereinheitlichte Umgebung für technische Dokumentation. Mehr dazu erfahren Sie in <a href="/teamblog/">unserem Blog</a>. Zusätzliche Dokumentation zu Microsoft-Produkten und -Diensten finden Sie in <a href="https://msdn.microsoft.com">MSDN</a> oder <a href="https://technet.microsoft.com">TechNet</a>.
+Docs.microsoft.com ist die Startseite der technischen Dokumentation von Microsoft, in der Entwickler und IT-Experten eine API-Referenz, Codebeispiele, Schnellstartanleitungen und Tutorials finden. Weitere Informationen und Neuigkeiten finden Sie in <a href="/teamblog/">unserem Blog</a>. Weitere Dokumentation von Microsoft finden Sie auf der <a href="https://msdn.microsoft.com">MSDN</a>- und der <a href="https://technet.microsoft.com">TechNet</a>-Website.
         </div>
         <ul class="cardsX panelContent singlePanelContent">
             <li>
@@ -138,7 +139,7 @@ docs.microsoft.com ist unsere neue vereinheitlichte Umgebung für technische Dok
                 </a>
             </li>
             <li>
-                <a href="/nuget/" title="Nuget">
+                <a href="/nuget/" title="NuGet">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -213,7 +214,7 @@ docs.microsoft.com ist unsere neue vereinheitlichte Umgebung für technische Dok
                 </a>
             </li>
             <li>
-                <a href="/education/" title="Microsoft Education">
+                <a href="/education/" title="Microsoft Bildung">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
