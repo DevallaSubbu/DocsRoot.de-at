@@ -1,11 +1,12 @@
 ---
 layout: LocalePage
 hide_bc: True
-ms.openlocfilehash: bdfc08a0ad24206869cbcb1d31cb3dda22cf4d32
-ms.sourcegitcommit: 9aad64840faccbd962cd103ca080280831cf69f7
+author: jdanyow
+ms.openlocfilehash: 3f495dcadaf95f99db2b048b77826f78a96c5912
+ms.sourcegitcommit: bd1906ecccf09b533353f9d7f8561962f03b91d6
 ms.translationtype: HT
 ms.contentlocale: de-AT
-ms.lasthandoff: 06/26/2017
+ms.lasthandoff: 07/07/2017
 ---
 # <a name="select-a-language"></a>Sprache auswählen
 
@@ -52,7 +53,7 @@ ms.lasthandoff: 06/26/2017
 * [Slovenčina](?sk-sk "Slowakisch")
 * [Slovenski](?sl-si "Slowenisch")
 * [Srpski (SrbijaiCrnaGora)](?sr-latn-rs "Serbisch (Lateinisch, Serbien)")
-* [Srpski](?sr-latn-cs "Serbisch (Lateinisch)")
+* [Srpski](?sr-latn-rs "Serbisch (Lateinisch)")
 * [Suomi](?fi-fi "Finnisch")
 * [Svenska](?sv-se "Schwedisch")
 * [Türkçe](?tr-tr "Türkisch")
