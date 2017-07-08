@@ -2,8 +2,8 @@
 layout: LocalePage
 hide_bc: True
 author: jdanyow
-ms.openlocfilehash: 3f495dcadaf95f99db2b048b77826f78a96c5912
-ms.sourcegitcommit: bd1906ecccf09b533353f9d7f8561962f03b91d6
+ms.openlocfilehash: 26a7a2272e9d6a3b2cefec8020e47727be6e34e9
+ms.sourcegitcommit: d8993bfed1f5d37474dea333a849ec6c37e116bc
 ms.translationtype: HT
 ms.contentlocale: de-AT
 ms.lasthandoff: 07/07/2017
@@ -61,7 +61,6 @@ ms.lasthandoff: 07/07/2017
 * [Български](?bg-bg "Bulgarisch")
 * [Русский](?ru-ru "Russisch")
 * [Српски (СрбијаиЦрнаГора)](?sr-cyrl-rs "Serbisch (Kyrillisch, Serbien)")
-* [Српски](?sr-cyrl-cs "Serbisch (Kyrillisch)")
 * [Україньска](?uk-ua "Ukrainisch")
 * [עברית‏](?he-il "Hebräisch")
 * [العربية](?ar-sa "Arabisch (Saudi-Arabien)")
