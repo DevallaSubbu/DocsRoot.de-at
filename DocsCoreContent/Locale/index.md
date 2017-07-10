@@ -2,15 +2,17 @@
 layout: LocalePage
 hide_bc: True
 author: jdanyow
-ms.openlocfilehash: 26a7a2272e9d6a3b2cefec8020e47727be6e34e9
-ms.sourcegitcommit: d8993bfed1f5d37474dea333a849ec6c37e116bc
+ms.openlocfilehash: e439ba91247f6b5b1b53c4e02fe1e4cb292fc764
+ms.sourcegitcommit: 73949b54b2030050f1c5ac5430a9c4c5fa2b4d0b
 ms.translationtype: HT
 ms.contentlocale: de-AT
-ms.lasthandoff: 07/07/2017
+ms.lasthandoff: 07/08/2017
 ---
-# <a name="select-a-language"></a>Sprache auswählen
+<a id="select-a-language" class="xliff"></a>
+# Sprache auswählen
 
-## <a name="americas"></a>Nord-, Mittel- und Südamerika
+<a id="americas" class="xliff"></a>
+## Nord-, Mittel- und Südamerika
 
 * [English (United States)](?en-us "Englisch (US)")
 * [Englisch (Kanada)](?en-CA "Englisch (CA)")
@@ -19,7 +21,8 @@ ms.lasthandoff: 07/07/2017
 * [Nederlands](?nl-nl "Niederländisch")
 * [Português (Brasil)](?pt-BR "Portugiesisch (BR)")
 
-## <a name="europe-middle-east-africa"></a>Europa, Naher Osten, Afrika
+<a id="europe-middle-east-africa" class="xliff"></a>
+## Europa, Naher Osten, Afrika
 
 * [Català](?ca-es "Katalanisch")
 * [Čeština](?cs-cz "Tschechisch")
@@ -53,7 +56,6 @@ ms.lasthandoff: 07/07/2017
 * [Slovenčina](?sk-sk "Slowakisch")
 * [Slovenski](?sl-si "Slowenisch")
 * [Srpski (SrbijaiCrnaGora)](?sr-latn-rs "Serbisch (Lateinisch, Serbien)")
-* [Srpski](?sr-latn-rs "Serbisch (Lateinisch)")
 * [Suomi](?fi-fi "Finnisch")
 * [Svenska](?sv-se "Schwedisch")
 * [Türkçe](?tr-tr "Türkisch")
@@ -65,7 +67,8 @@ ms.lasthandoff: 07/07/2017
 * [עברית‏](?he-il "Hebräisch")
 * [العربية](?ar-sa "Arabisch (Saudi-Arabien)")
 
-## <a name="asia-oceania"></a>Asien/Ozeanien
+<a id="asia-oceania" class="xliff"></a>
+## Asien/Ozeanien
 
 * [Bahasa Indonesia](?id-id "Indonesisch")
 * [Bahasa Malaysia](?ms-my "Malayisch (Malaysia)")
